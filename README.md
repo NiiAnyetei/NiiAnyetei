@@ -37,6 +37,11 @@ I regularly write about software engineering, architecture, best practices, and 
 ### Latest from My Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Your Web App: A Comprehensive Guide to Free SSL Certificates](https://cliffordanang.com/articles/free-ssl-guide)
+- [.NET 10 &amp; C# 14 Deep Dive Series - PART 5](https://cliffordanang.com/articles/dot-net-10-c-sharp-14-p5)
+- [.NET 10 &amp; C# 14 Deep Dive Series - PART 4](https://cliffordanang.com/articles/dot-net-10-c-sharp-14-p4)
+- [.NET 10 &amp; C# 14 Deep Dive Series - PART 3](https://cliffordanang.com/articles/dot-net-10-c-sharp-14-p3)
+- [.NET 10 &amp; C# 14 Deep Dive Series - PART 2](https://cliffordanang.com/articles/dot-net-10-c-sharp-14-p2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
